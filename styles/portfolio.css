@@ -113,5 +113,25 @@ line-height: normal;
 text-transform: uppercase;
 margin-left: 125px;
 
+}
 
+.ph444{
+    background-image: url('/images/Vectorrr.png');
+    height: 600px;
+    background-repeat: no-repeat;
+    display: flex;
+}
+.jjj{
+    margin-top: 70px;
+
+}
+
+.invite{
+    color: #070211;
+font-family: Inter;
+font-size: 32px;
+font-style: normal;
+font-weight: 600;
+line-height: 56px;
+text-transform: capitalize;
 }
