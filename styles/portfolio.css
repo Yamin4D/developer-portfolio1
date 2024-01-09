@@ -1,4 +1,64 @@
+body{
+    font-family: 'Merriweather', serif;
+    font-family: 'Inter', sans-serif;
+}
+
 /*nav related styles*/
-nav{
-    background-image: ;
+.banner{
+    height: 800px; 
+    background-image: url('/images/Banner_Image.png');
+    background-repeat: no-repeat;
+}
+.banner-greeting{
+    color: #FFF;
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    padding-top: 150px;
+    margin-right: 100px;
+  
+}
+.banner-title{
+    color: #FFF;
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 72px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 95px; /* 131.944% */
+    width: 632px;
+    margin-left: 300px;
+}
+
+.mh1{
+    color: #F00;
+
+text-align: center;
+font-family: Inter;
+font-size: 88px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+
+.mh2{
+    color: #F00;
+text-align: center;
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+.mh3{
+    color: #070211;
+text-align: center;
+font-family: Inter;
+font-size: 48px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
 }
